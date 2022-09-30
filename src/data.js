@@ -1,0 +1,77 @@
+const menu = [
+    {
+      id: 1,
+      title: 'Sukuma-wiki',
+      category: 'lunch',
+      price: 1.1,
+      img: '/kales.jpeg',
+      desc: `delicious and healthy braised vegetarian Collard Greens Recipe with tomatoes and onion.`,
+    },
+    {
+      id: 2,
+      title: 'Matoke',
+      category: 'lunch',
+      price: 2.99,
+      img: '/matoke.jpg ',
+      desc: `
+      Matoke (green bananas) with peas, a simple and hearty dish `,
+    },
+    {
+      id: 3,
+      title: 'Pilau',
+      category: 'Supper',
+      price: 0.99,
+      img: '/pilau2.jpeg',
+      desc: `s This is a traditional, beautiful fragrant rice dish made with many aromatic spices that add taste to it.`,
+    },
+    {
+      id: 4,
+      title: 'Pilau-Njeri',
+      category: 'Bachelor-package',
+      price: 1.0,
+      img: '/pilaunjeri.jpg',
+      desc: `A classic staple in every Kenyan home, this simple, all-inclusive meal is a superb mixture of rice, protein and vegetables that you can cook even at your most tired.
+      `,
+    },
+    {
+      id: 5,
+      title: 'FINE-TILAPIA',
+      category: 'Executive',
+      price: 3.99,
+      img: '/samaki.jpg',
+      desc: ` Fried Whole fish (Tilapia) with dhania and chilies,sukuma-wiki toppings `,
+    },
+    {
+      id: 6,
+      title: 'UGALI-DRY',
+      category: 'Supper',
+      price: 1.99,
+      img: '/ugali.jpeg',
+      desc: `THE NATIONAL DISH OF KENYA  UGALI ,NYAMA CHOMA (grilled meat)  + Sukuma-wiki, `,
+    },
+    {
+      id: 7,
+      title: 'IRIO',
+      category: 'Executive',
+      price: 3.99,
+      img: '/irio.jpg',
+      desc: ` Irio is a staple food in Kenya,a very simple but delicious side dish made with Potatoes, Corn, and Peas,also referred to as African mashed Potatoes, Kenyan mashed Potatoes, or Mukimo.`,
+    },
+    {
+      id: 8,
+      title: 'Smoked-meat',
+      category: 'lunch',
+      price: 2.99,
+      img: '/smoked.jpeg',
+      desc: `The smoked-meat is like nyama choma which is  a specialty of grilled goat meat`,
+    },
+    {
+      id: 9,
+      title: 'Ugali-Mayai',
+      category: 'Bachelor-package',
+      price: 1.09,
+      img: '/u-mayai.jpeg',
+      desc: `Ugali Mayai is an elite meal that reminds one of hostel life, a simple and inexpensive way to have your nutrients on the go`,
+    },
+  ];
+  export default menu;
